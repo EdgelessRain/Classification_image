@@ -1,10 +1,10 @@
 # Classification_image
-система классификации изображений посредством нейросети.
+a system for creating neural network models and image classification. The cifar-10 dataset is used to train models
 
-Модули, используемые в программе:
+Modules used in the program:
 
-Система для классификации изображений.bat. Отвечает за запуск программы систем классификации изображений посредством нейросети.
+Система для классификации изображений.bat. Responsible for launching the program of image classification systems via a neural network.
 
-GUI.py. Отвечает за интерфейс программы. 
+GUI.py. Responsible for the program interface. 
 
-CNN.py. Отвечает за манипуляции с моделями нейростетей.
+CNN.py. Responsible for manipulating neural network models.
